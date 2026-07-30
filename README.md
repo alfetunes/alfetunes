@@ -1,7 +1,7 @@
 <!-- Profile README for alfetunes -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Alfeu%20Gon%C3%A7alves&fontSize=40&fontColor=ffffff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Alfeu%20Gon%C3%A7alves%20dos%20Santos&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Alfeu</h1>
@@ -36,11 +36,6 @@ Passionate about <strong>Test Automation</strong>, <strong>AI Evaluation</strong
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alfetunes&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfetunes&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alfetunes&theme=github-dark-blue&hide_border=true" />
