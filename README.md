@@ -56,7 +56,7 @@ Passionate about <strong>Test Automation</strong>, <strong>AI Evaluation</strong
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/alfetunes
+- Instagram: https://www.instagram.com/alfeu88/
 
 ---
 
-> *"Automation is not about replacing people — it's about empowering them to focus on what matters most."*
